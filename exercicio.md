@@ -69,7 +69,6 @@ tudo não passou de uma emboscada arquitetada por quatro dos principais inimigos
 <hr>
 
 <p><strong>5. Batman e Robin (1997)</strong></p>
-<img src="imagens/exercicio-002/batman-e-robin-0_cke.webp" width="100%" />
 <p><strong>Intérprete:</strong> George Clooney;<br />
 <strong>Vilões:</strong> Senhor Frio, Hera Venenosa e Bane;<br />
 <strong>Elenco:</strong> George Clooney, Arnold Schwarzenegger, Chris O'Donnell, Uma Thurman e Alicia Silverstone;<br />
@@ -120,11 +119,60 @@ tudo não passou de uma emboscada arquitetada por quatro dos principais inimigos
 <p>Manipulado por Lex Luthor, Bruce Wayne acaba vendo o Superman como uma ameaça à Terra, o que leva os personagens a um embate extremamente perigoso, com o Batman chegando a criar uma armadura movida a kriptonita.</p>
 <p>Dirigido por Zack Snyder, o filme dividiu opiniões, recebendo pesadas críticas por seu tom escuro e seu ritmo lento e representando um grande desapontamento nas bilheterias mundiais.</p>
 
+<hr>
 
+<p><strong>10. Esquadrão Suicida (2016)</strong></p>
+<p><strong>Intérprete:</strong> Ben Affleck;<br />
+<strong>Vilões:</strong> Coringa, Magia;<br />
+<strong>Elenco:</strong> Margot Robbie, Viola Davis, Cara Delevingne, Will Smith, Jared Leto, Joel Kinnaman, Jai Courtney, Jay Hernandez, Adewale Akinnuoye-Agbaje, Ike Barinholtz, Scott Eastwood;<br />
+<strong>Diretor:</strong> David Ayer.</p>
+<p>Embora o foco de Esquadrão Suicida não tenha sido no Batman, o longa se passa no mesmo universo e é protagonizado por alguns dos populares vilões das HQs do personagem e de outras séries da DC Comics. São eles Coringa, Arlequina, Pistoleiro, El Diablo, Capitão Bumerangue, Crocodilo, Amarra e Magia.</p>
+<p>Embora o Coringa de Jared Leto tenha tido uma recepção mista, foi a primeira vez que um filme abordou o popular (e abusivo) relacionamento entre ele e Arlequina. Ela, por sua vez, caiu nas graças do público com a interpretação de Margot Robbie, e protagonizou o filme Aves de Rapina em 2020.</p>
+<p>Ainda assim, o Bruce de Ben Affleck também marcou presença no filme, mais especificamente na cena mid-credits, quando Wayne aparece conversando com Amanda Waller e pegando os arquivos dos meta humanos de quem o governo tem registro.</p>
 
+<hr>
 
+<p><strong>11. Liga da Justiça (2017 - Versão Joss Whedon)</strong></p>
+<p><strong>Intérprete:</strong> Ben Affleck;<br />
+<strong>Vilões:</strong> Lobo da Estepe;<br />
+<strong>Elenco:</strong> Ben Affleck, Gal Gadot, Jason Momoa, Henry Cavill, Ray Fisher, Ezra Miller, Amy Adams, J.K. Simmons;<br />
+<strong>Diretor:</strong> Joss Whedon.</p>
+<p>O filme que trouxe para os cinemas a aclamada Liga da Justiça acabou tendo sua produção envolta em polêmicas, com a principal delas sendo a troca de diretores, marcando a saída de Zack Snyder e a entrada de Joss Whedon (e o início de uma longa campanha para que a DC liberasse a versão de Snyder do filme).</p>
+<p>A trama acompanhou o Batman e a Mulher-Maravilha reunindo a equipe de heróis, para enfrentar o temido Lobo da Estepe, que planejava usar as chamadas Caixas Mães para destruir a Terra. Em um período dois anos após a morte do Superman, Batman, Mulher-Maravilha, Flash, Aquaman e Ciborgue se unem para salvar o planeta.</p>
 
+<hr>
 
+<p><strong>12. Liga da Justiça (2021 - Versão Zack Snyder)</strong></p>
+<img src="imagens/exercicio-002/liga-da-justica-6_cke.jpg" width="100%" />
+<p><strong>Intérprete:</strong> Ben Affleck;<br />
+<strong>Vilões:</strong> Darkseid e Lobo da Estepe;<br />
+<strong>Elenco:</strong> Ben Affleck, Gal Gadot, Jason Momoa, Henry Cavill, Ray Fisher, Ezra Miller, Amy Adams, J.K. Simmons;<br />
+<strong>Diretor:</strong> Zack Snyder.</p>
+<p>Após quatro anos de muita batalha dos fãs para que a DC e a Warner liberassem o chamado Snyder Cut, os estúdios anunciaram que a versão do diretor chegará ao streaming HBO Max em 2021, dividido em quatro partes de 1h aproximadamente cada.</p>
+<p>Nessa versão, o fio condutor da trama não é o Batman e a Mulher-Maravilha, mas sim o Ciborgue. Embora também aborde as caixas maternas e o embate contra o Lobo da Estepe, o filme tem um espaço de destaque para o famoso vilão Darkseid, que lidera um exército que invade a Terra em busca das caixas. Para enfrentá-lo, a Liga da Justiça reuniria um exército de Amazonas, deuses, humanos, atlantes e um membro da Tropa dos Lanternas Verdes.</p>
+<p>O Snyder Cut conta ainda com um momento muito esperado pelos fãs de Liga da Justiça: o Superman vestindo o uniforme preto. Por se passar exatamente no mesmo período de tempo que a trama da versão de Joss Whedom, este é o único filme que não deixaremos na ordem de lançamento.</p>
+
+# Novo Universo cinematográfico 🠕
+
+<p><strong>13. Coringa (2019)</strong></p>
+<p><strong>Intérprete:</strong> Dante Pereira-Olson (jovem Bruce Wayne);<br />
+<strong>Vilões:</strong> Coringa;<br />
+<strong>Elenco:</strong> Joaquin Phoenix, Robert De Niro, Zazie Beetz, Bill Camp, Frances Conroy, Brett Cullen;<br />
+<strong>Diretor:</strong> Todd Phillips.</p>
+<p>O filme solo do Coringa chegou aos cinemas fazendo história., Quebrando diversos recordes de bilheteria, o longa contou com a brilhante atuação de Joaquin Phoenix, trabalho pelo qual ele conquistou o Oscar de Melhor Ator.</p>
+<p>A trama acompanha o desajustado Arthur Fleck, um homem simples e sofrido que trabalha como palhaço e sonha em se tornar um comediante. Com problemas neurológicos, é bem pouco sociável e toma remédios que consegue com o serviço de assistência social. Após ser humilhado, agredido e rebaixado de diferentes formas, Arthur vai se transformando naquele que conheceríamos como o Palhaço do Crime.</p>
+<p>Embora o foco aqui não seja o Batman, o filme conta mais uma história de origem do arqui-inimigo do Homem Morcego, e ainda conta com a aparição de um Bruce Wayne bem jovem.</p>
+
+<hr>
+
+<p><strong>14. The Batman (2022)</strong></p>
+<p><strong>Intérprete:</strong> Robert Pattinson;<br />
+<strong>Vilões:</strong> Mulher-Gato, Charada, Pinguim, Carmine Falcone;<br />
+<strong>Elenco:</strong> Robert Pattinson, Jeffrey Wright, Zoë Kravitz, Paul Dano, Andy Serkis, Colin Farrell, John Turturro;<br />
+<strong>Diretor:</strong> Matt Reeves.</p>
+<p>Depois de diferentes reclamações sobre a versão do Batman de Ben Affleck, o Homem-Morcego do diretor Matt Reeves - vivido por Robert Pattinson - foi aguardado com grande antecipação pelos fãs e não decepcionou. O filme conquistou incríveis 90% de aprovação dos críticos no site Rotten Tomatoes. A trama se passa no segundo ano do jovem Bruce como Batman e mostra melhor o lado detetive do morcego de Gotham.</p>
+<p>O vilão Charada está por trás de uma série de assassinatos misteriosos e está provocando o Batman com seus enigmas. Na tentativa de investigar e impedir que os crimes continuem, Bruce ainda precisa lidar com outros vilões clássicos das HQs do personagem, como Mulher-Gato, Pinguim e Carmine Falcone.</p>
+<p>Embora se passe anos antes da trama dos demais filmes desta lista, The Batman não terá relação direta com nenhuma das produções anteriores, fazendo parte dos novos filmes DC que não integram o DCEU.</p>
 
 # Professor Wagner Lima
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/80631657?v=4" width=115 align=left>
