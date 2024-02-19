@@ -143,7 +143,6 @@ tudo não passou de uma emboscada arquitetada por quatro dos principais inimigos
 <hr>
 
 <p><strong>12. Liga da Justiça (2021 - Versão Zack Snyder)</strong></p>
-<img src="imagens/exercicio-002/liga-da-justica-6_cke.jpg" width="100%" />
 <p><strong>Intérprete:</strong> Ben Affleck;<br />
 <strong>Vilões:</strong> Darkseid e Lobo da Estepe;<br />
 <strong>Elenco:</strong> Ben Affleck, Gal Gadot, Jason Momoa, Henry Cavill, Ray Fisher, Ezra Miller, Amy Adams, J.K. Simmons;<br />
