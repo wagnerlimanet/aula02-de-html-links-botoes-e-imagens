@@ -11,6 +11,12 @@ Aula 02 de HTML, onde foi ensinado como inserir imagens, tando locais (da máqui
 * [Imagens Externas](https://github.com/wagnerlimanet/aula02-de-html-links-e-imagens/blob/main/imagens-externas.html)
 * [Imagens e Links](https://github.com/wagnerlimanet/aula02-de-html-links-e-imagens/blob/main/imagens-e-links.html)
 
+# Exercícios 
+
+* [Exercício 01 Finalizado](https://github.com/wagnerlimanet/aula02-de-html-links-e-imagens/blob/main/exercicio-001.html)
+* [Exercício 02 Finalizado](https://github.com/wagnerlimanet/aula02-de-html-links-e-imagens/blob/main/exercicio-002.html)
+* [Conteúdo para o Exercício 02](https://github.com/wagnerlimanet/aula02-de-html-links-e-imagens/blob/main/exercicio-002.md)
+
 # Professor Wagner Lima
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/80631657?v=4" width=115 align=left>
 <br>
