@@ -45,7 +45,17 @@ tudo não passou de uma emboscada arquitetada por quatro dos principais inimigos
 <p>Na trama, o Homem-Morcego precisa impedir o plano do Coringa de envenenar a população de Gotham com um gás que causa risadas histéricas e leva à morte. Mas o vilão guarda ainda outro segredo, que tem relação direta com o herói.</p>
 <p>Além de se tornar um sucesso de bilheteria e crítica e de ganhar um Oscar, Batman foi uma grande influência nas técnicas de desenvolvimento de futuros filmes do gênero.</p>
 
+<hr>
 
+<p><strong>3. Batman: O Retorno (1992)</strong></p>
+<img src="imagens/exercicio-002/batman-o-retorno_cke.webp" width="100%" />
+<p><strong>Intérprete:</strong> Michael Keaton;<br />
+<strong>Vilões:</strong> Pinguim, Mulher Gato;<br />
+<strong>Elenco:</strong> Michael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken;<br />
+<strong>Diretor:</strong> Tim Burton.</p>
+<p>Contando mais uma vez com Michael Keaton no papel principal e Tim Burton na direção, Batman: O Retorno deu continuidade à história que vimos no longa anterior, mas dessa vez Bruce Wayne precisa enfrentar o perigoso Pinguim. O vilão ganhou vida mais uma vez nos cinemas, dessa vez na interpretação de Danny Devito.</p>
+<p>Mas o macabro plano do Pinguim de sequestrar e matar os filhos primogênitos dos cidadãos de Gotham não é o único desafio do Homem-Morcego neste filme. Ele ainda precisa tentar impedir a sede de vingança da Mulher-Gato, vivida por Michelle Pfeiffer.</p>
+<p>Embora o tom sombrio que Burton trouxe ao filme tenha sido criticado na época, Batman: O Retorno se tornou uma referência para outros profissionais da área, e foi eleito pela Revista Empire como o 7º melhor filme de super heróis, e o 2º melhor longa do personagem, perdendo apenas para Batman O Cavaleiro das Trevas (2008).</p>
 
 
 
