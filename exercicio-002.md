@@ -5,6 +5,8 @@ Nesse exercício iremos aplicar os conhecimentos adiquiridos nas últimas aulas,
 
 ![Lucas](https://img.shields.io/badge/Facebook-0000ff?style=for-the-badge&logo=facebook&logoColor=white)
 
+![Whatsapp](https://img.shields.io/badge/Whatsapp-00ff00?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 
 # Tópicos da Página
 
