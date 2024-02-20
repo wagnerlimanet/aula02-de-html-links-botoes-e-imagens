@@ -3,12 +3,6 @@ Nesse exercício iremos aplicar os conhecimentos adiquiridos nas últimas aulas,
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
-![Lucas](https://img.shields.io/badge/Facebook-0000ff?style=for-the-badge&logo=facebook&logoColor=white)
-
-<a href="https://wa.me/5585997734817">
-![Whatsapp]([https://img.shields.io/badge/Whatsapp](https://wa.me/5585997734817)-00ff00?style=for-the-badge&logo=whatsapp&logoColor=white)
-</a>
-
 # Tópicos da Página
 
 * [O primeiro filme de todos](#primeiro)
