@@ -34,7 +34,7 @@ corre perigo a bordo de um iate. Eles chegam ao barco usando o Batcóptero, mas 
 tudo não passou de uma emboscada arquitetada por quatro dos principais inimigos do Batman.
 </p>
 
-# A antologia The Batman 🠕
+# A antologia The Batman 🠕 <span id="antologia"></span>
 <p><strong>2. Batman (1989)</strong></p>
 <p>
 <strong>Intérprete:</strong> Michael Keaton;<br />
@@ -77,7 +77,7 @@ tudo não passou de uma emboscada arquitetada por quatro dos principais inimigos
 <p>A trama acompanha Batman, Robin e a recém chegada Batgirl combatendo o Senhor Frio, a Hera Venenosa e Bane, que se uniram na tentativa de dominar Gotham.</p>
 <p>Frequentemente ridicularizado pela trama, pelos figurinos e outros elementos, o filme teve críticas e bilheteria muito negativas. Além disso, foi indicado em 11 categorias no prêmio Framboesa de Ouro, incluindo a de Pior Filme. É considerado até hoje o pior filme do personagem, motivo pelo qual a Warner Bros. cancelou este projeto, e só retornaria a abordar o personagem nos cinemas em 2005.</p>
 
-# Trilogia do Cavaleiro das Trevas 🠕
+# Trilogia do Cavaleiro das Trevas 🠕 <span id="trilogia"></span>
 
 <p><strong>6. Batman Begins (2005)</strong></p>
 <p><strong>Intérprete:</strong> Christian Bale;<br />
@@ -109,7 +109,7 @@ tudo não passou de uma emboscada arquitetada por quatro dos principais inimigos
 <p>Quando Bane, ex-membro da Liga das Sombras, chega a Gotham para pôr em prática o plano de Ras Al Ghul de destruir a cidade, o Batman já não tem o preparo físico de outrora. O filme ainda trouxe Anne Hathaway no papel de Selina Kyle, a Mulher-Gato.</p>
 <p>O longa caiu nas graças dos fãs e dos críticos, que elogiaram direção, roteiro, trilha sonora e elenco da conclusão da trilogia do Cavaleiro das Trevas.</p>
 
-# Universo estendido DC (DCEU) 🠕
+# Universo estendido DC (DCEU) 🠕 <span id="universoestendido"></span>
 <p><strong>9. Batman vs Superman: A Origem da Justiça (2016)</strong></p>
 <p><strong>Intérprete:</strong> Ben Affleck;<br />
 <strong>Vilões:</strong> Lex Luthor;<br />
@@ -151,7 +151,7 @@ tudo não passou de uma emboscada arquitetada por quatro dos principais inimigos
 <p>Nessa versão, o fio condutor da trama não é o Batman e a Mulher-Maravilha, mas sim o Ciborgue. Embora também aborde as caixas maternas e o embate contra o Lobo da Estepe, o filme tem um espaço de destaque para o famoso vilão Darkseid, que lidera um exército que invade a Terra em busca das caixas. Para enfrentá-lo, a Liga da Justiça reuniria um exército de Amazonas, deuses, humanos, atlantes e um membro da Tropa dos Lanternas Verdes.</p>
 <p>O Snyder Cut conta ainda com um momento muito esperado pelos fãs de Liga da Justiça: o Superman vestindo o uniforme preto. Por se passar exatamente no mesmo período de tempo que a trama da versão de Joss Whedom, este é o único filme que não deixaremos na ordem de lançamento.</p>
 
-# Novo Universo cinematográfico 🠕
+# Novo Universo cinematográfico 🠕 <span id="novouniverso"></span>
 
 <p><strong>13. Coringa (2019)</strong></p>
 <p><strong>Intérprete:</strong> Dante Pereira-Olson (jovem Bruce Wayne);<br />
