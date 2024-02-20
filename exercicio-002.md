@@ -3,7 +3,7 @@ Nesse exercício iremos aplicar os conhecimentos adiquiridos nas últimas aulas,
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
-![Lucas](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
+![Lucas](https://img.shields.io/badge/Facebook-0000ff?style=for-the-badge&logo=facebook&logoColor=white)
 
 
 # Tópicos da Página
